@@ -8,4 +8,4 @@ This page utilizes an infinite scrolling and search filter technique
 * Input box can be used to filter the results
 * Technologies used: flex-box, fetch, setTimeout, event listeners, forEach loop, async/await
 
-[Demo](https://rawcdn.githack.com/mecramer/infinite-scrolling/cd93fa64c642603878395c6b680dcbd5f418ec2d/index.html)
+[Demo](https://rawcdn.githack.com/mecramer/infinite-scrolling/c81b1e715ffca09fcc8e68969e86cdbe9118e239/index.html)
