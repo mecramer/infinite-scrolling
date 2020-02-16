@@ -12,7 +12,7 @@ let page = 1;
 // fetching the data using our variables for limit and page
 // awaiting the fetch and then turning it into res.json();
 async function getPosts() {
-  const res = await fetch(`http://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`);
+  const res = await fetch(`https://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`);
 
   const data = await res.json();
   
